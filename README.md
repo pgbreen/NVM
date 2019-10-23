@@ -14,6 +14,7 @@ $./nvm.py -x -0.25 0.25 -o output
 
 ![Example trajectory](https://github.com/pgbreen/NVM/blob/master/img/output.jpg "Example trajectory")
 
+Preprint available at https://arxiv.org/abs/1910.07291
 
 ### Requires 
  - Tensorflow
